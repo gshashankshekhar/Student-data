@@ -1,0 +1,14 @@
+.box{
+    background-color: rgb(233, 233, 241);
+    display: flex;
+    place-content: center;
+    padding: 2rem;
+    
+    
+}
+body{
+    background-color: rgb(213, 228, 238);
+}
+h1{
+    text-align: center;
+}
